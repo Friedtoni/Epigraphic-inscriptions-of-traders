@@ -1,7 +1,7 @@
 # Epigraphic-inscriptions-of-traders
 Masterabschlussarbeit Digital Humanities Universität Stuttgart \
 "Epigraphische Inschriften als Daten zur digitalen Rekonstruktion und Analyse des römischen Handels. Statistiken und Untersuchungen zu Händlerbegriffen in epigraphischen Einträgen und ihrer Metadaten der Datenbanken EDCS und EDH." \
-engl. Titel: "Epigraphic inscriptions as data for the digital reconstruction and analysis of Roman trade. A statistic analysis of traders in epigraphic data and their metadatas in the databases EDCS and EDH."\
+engl. Titel: "Epigraphic inscriptions as data for the digital reconstruction and analysis of Roman trade. A statistic analysis of traders in epigraphic data and their metadatas in the databases EDCS and EDH." \
 
 von Antonia Friedrich, Universität Stuttgart, M.A. Digital Humanities
 
