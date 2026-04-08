@@ -9,11 +9,13 @@ Anhand der epigraphischen Datenbankeinträge in der EDCS und EDH sollen Händler
 Die Arbeit stützt sich auf folgende Fragestellungen:
   - Inwieweit lassen sich durch epigraphische Inschriften spezifische Händlertypen rekonstruieren?
   -	Lassen sich geographische Konzentrationen epigraphisch erwähnter Händler erkennen?
-  - Lassen sich berufliche Verbindungen und Kooperationen zwischen Händlern und Transporteuren nachweisen? 
+  - Können berufliche Verbindungen oder mögliche Kooperationen zwischen Händlern und Transporteuren nachgewiesen werden? 
   - Verändert sich die Händlerpräsenz in den Inschriften zwischen den römischen Kaiserepochen?
 
 Für die textbasierte Analyse wurde ein Korpus aus den zur Verfügung stehenden Datensätze des Projekts SDAM erstellt, der möglichst alle bisher bekannten und editorisch aufgearbeiteten antiken Inschriften enthält. Dadurch lassen sich bestmögliche Treffer in der Entitätensuche der Händlertypen erzielen.\
 Der Code für die Korpusbildung ist im Ordner "notebooks" unter "1.Korpus_EDCS_EDH_.ipynb" zu finden.
+Der Code für die Analyse der Inschirften mit Nennung von Händlern und Transporteuren sind ebenso im Ordner "notebooks" unter "2. Analyse_Inschriften_Handel.ipynb".
+Unter "Plots" befinden sich alle im Notebook erzeugten Visualisierungen. 
 
 
 ... 
