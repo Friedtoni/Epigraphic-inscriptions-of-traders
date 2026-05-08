@@ -9,7 +9,7 @@ Anhand der epigraphischen Datenbankeinträge in der EDCS und EDH sollen Händler
 Die Arbeit stützt sich auf folgende Fragestellungen:
   - Inwieweit lassen sich durch epigraphische Inschriften spezifische Händlertypen rekonstruieren?
   -	Lassen sich geographische Konzentrationen epigraphisch erwähnter Händler erkennen?
-  - Können berufliche Verbindungen oder mögliche Kooperationen zwischen Händlern und Transporteuren nachgewiesen werden? 
+  - Lassen sich berufliche Verbindungen oder mögliche Kooperationen zwischen Händlern und Transporteuren nachweisen? 
   - Verändert sich die Händlerpräsenz in den Inschriften zwischen den römischen Kaiserepochen?
 
 Für die textbasierte Analyse wurde ein Korpus aus den zur Verfügung stehenden Datensätze des Projekts SDAM erstellt, der möglichst alle bisher bekannten und editorisch aufgearbeiteten antiken Inschriften enthält. Dadurch lassen sich bestmögliche Treffer in der Entitätensuche der Händlertypen erzielen.\
