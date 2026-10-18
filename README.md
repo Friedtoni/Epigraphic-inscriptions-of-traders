@@ -14,8 +14,8 @@ Die Arbeit stützt sich auf folgende Fragestellungen:
  *- Verändert sich die Händlerpräsenz in den Inschriften zwischen den römischen Kaiserepochen?*
 
 Für die textbasierte Analyse wurde ein Korpus aus den zur Verfügung stehenden Datensätze des Projekts SDAM erstellt, der möglichst alle bisher bekannten und editorisch aufgearbeiteten antiken Inschriften enthält. Dadurch lassen sich bestmögliche Treffer in der Entitätensuche der Händlertypen erzielen.\
-Der Code für die **Korpusbildung** ist im Ordner **"notebooks"** unter **"1.Korpus_EDCS_EDH_.ipynb"** zu finden.
-Der Code für die **Analyse der Inschirften mit Nennung von Händlern und Transporteuren** sind ebenso im Ordner "notebooks" unter **"2. Analyse_Inschriften_Handel.ipynb"**.
-Unter **"Plots"** befinden sich alle im Notebook **erzeugten Visualisierungen**. 
+Der Code für die **Korpusbildung** ist im Ordner **"notebooks"** unter **"1.Korpus_EDCS_EDH_.ipynb"** zu finden. \
+Der Code für die **Analyse der Inschirften mit Nennung von Händlern und Transporteuren** sind ebenso im Ordner "notebooks" unter **"2. Analyse_Inschriften_Handel.ipynb"**. \
+Unter **"Plots"** befinden sich alle im Notebook **erzeugten Visualisierungen**. \
 Die Auswahl an Begriffen von Händlern und Transporteuren aus den Sekundarliteraturen sind unter den Dateien **Metadaten_Begriffe** als .CSV oder .XLSX Datei einzusehen.
 
